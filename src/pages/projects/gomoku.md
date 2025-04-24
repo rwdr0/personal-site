@@ -4,7 +4,7 @@ title: Gomoku / 5 In a Row
 description: An interactive gomoku (5 in-a-row) AI
 tags: ["Go", "TypeScript", "React.js", "Concurrency", "AI"]
 githubUrl: https://github.com/rudrowo/5-in-a-row
-timestamp: 2022-06-24T02:39:03+00:00
+timestamp: 2023-06-24T02:39:03+00:00
 featured: false
 filename: gomoku
 ---
