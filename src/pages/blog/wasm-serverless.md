@@ -3,7 +3,7 @@ layout: ../../layouts/BlogLayout.astro
 title: On Being Truly Serverless
 description: Broke? Tired of running your code on a cloud-based potato? Well maybe you don't need to.
 tags: ["Hot Take", "Infrastructure"]
-time: 6
+time: 4
 featured: true
 timestamp: 2025-09-07T08:31:43+00:00
 filename: wasm-serverless
@@ -11,9 +11,7 @@ filename: wasm-serverless
 
 # WebAssembly: The True Essence of Serverless Computing
 
-_Or: How I Learned to Stop Worrying and Love the Runtime_
-
-After years of wrestling with Lambda cold starts, debugging container orchestration nightmares, and watching my "serverless" bills explode, I've had an epiphany. We've been doing serverless wrong this entire time. The real serverless was inside WebAssembly all along.
+After years of debugging container orchestration nightmares, and watching my "serverless" bills explode, I've had an epiphany. We've been doing serverless wrong this entire time. The real serverless was inside WebAssembly all along.
 
 ## The False Prophets of Serverless
 
@@ -97,5 +95,4 @@ _Now if you'll excuse me, I have some Lambda functions to migrate._
 
 ---
 
-**Ready to experience true serverless?** Start with the [WebAssembly System Interface (WASI)](https://wasi.dev/) and prepare to have your mind blown by what serverless computing should have been all along.
-
+**Ready to experience true serverless?** Check out [this project](/projects/neuromancer) where I run neural networks in the browser with WebAssembly.

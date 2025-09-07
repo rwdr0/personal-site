@@ -1,19 +1,17 @@
 ---
 layout: ../../layouts/BlogLayout.astro
-title: Be, And It Is
+title: "'Be, And It Is'"
 description: public static void main (what?)- just give me what I want.
 tags: ["Hot Take", "Coding"]
-time: 5
+time: 6
 featured: true
 timestamp: 2025-09-07T08:49:21+00:00
 filename: declarative-coding
 ---
 
-# Declarative Programming: The Enlightenment We've Been Waiting For
+# Let's go on a 6 minute Declarative Programming glazing session
 
-_Or: How I Stopped Micromanaging My Code and Started Living_
-
-After two decades of writing imperative spaghetti, debugging step-by-step nightmares, and maintaining codebases that read like assembly instructions written by caffeinated squirrels, I've experienced a revelation. Declarative programming isn't just a paradigm—it's enlightenment in syntactic form. It's the difference between being a code micromanager and being a digital architect of intent.
+After few years of writing imperative spaghetti, debugging step-by-step nightmares, and maintaining codebases that read like assembly instructions written by caffeinated squirrels, I've experienced a revelation. Declarative programming isn't just a paradigm—it's enlightenment in syntactic form. It's the difference between being a code micromanager and being a digital architect of intent.
 
 ## The Imperative Prison We've Built Ourselves
 
@@ -39,7 +37,7 @@ return result;
 
 Look at this monstrosity. We're telling the computer exactly how to breathe, step by step, like it's a toddler learning to tie shoes. We're managing loop counters, tracking indices, manually handling state mutations, and praying we don't introduce off-by-one errors or null pointer exceptions.
 
-This isn't programming—this is digital micromanagement. And we've been doing it for so long that we've forgotten there's a better way.
+This isn't programming- this is digital micromanagement.
 
 ## Enter Declarative Programming: The Great Liberation
 
