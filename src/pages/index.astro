@@ -13,7 +13,7 @@ import FeaturedArticles from "../components/home/FeaturedArticles.astro";
     <title>{GLOBAL.username} • {GLOBAL.shortDescription}</title>
     <meta
       name="description"
-      content={GLOBAL.longDescription}
+      content={GLOBAL.shortDescription}
     />
     <meta
       property="og:title"
@@ -21,7 +21,7 @@ import FeaturedArticles from "../components/home/FeaturedArticles.astro";
     />
     <meta
       property="og:description"
-      content={GLOBAL.longDescription}
+      content={GLOBAL.shortDescription}
     />
     <meta property="og:url" content={GLOBAL.rootUrl} />
     <meta name="twitter:card" content="summary_large_image" />
@@ -31,7 +31,7 @@ import FeaturedArticles from "../components/home/FeaturedArticles.astro";
     />
     <meta
       name="twitter:description"
-      content={GLOBAL.longDescription}
+      content={GLOBAL.shortDescription}
     />
     <meta name="twitter:image" content={`${GLOBAL.rootUrl}/zaggonaut.png`} />
     <meta http-equiv="content-language" content="en" />

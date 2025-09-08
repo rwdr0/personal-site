@@ -5,14 +5,12 @@ export const GLOBAL = {
   username: "Rudro",
   handle: "rudrOwO",
   rootUrl: "https://rudro.me",
-  shortDescription: "Fullstack Developer based in Dhaka, Bangladesh",
+  shortDescription: "Software Developer based in Dhaka, Bangladesh",
   longDescription: `<br>
-    <ul>
-      <li>✨ <s>Developer</s> Conjurer with diverse skillset.</li>
-      <br>
-      <li>🧙 Frontend, Backend, DevOps, Large Language Models, Mobile & Desktop Apps, 3D Graphics, WebAssembly.</li>
-      <br>
-      <li>🤝 Go and TypeScript enjoyer.</li>
+    <ul style="display: flex; flex-direction: column; gap: 1rem;">
+      <li>👨‍💻 Software Developer with diverse skillset.</li>
+      <li>⚡ Frontend, Backend, DevOps, LLMs, 3D Graphics, Mobile & Desktop Apps.</li>
+      <li>🗿 I have a good record of <s>breaking</s> fixing prod at midnight with a straight face.</li>
     </ul>`,
 
   // Social media links
