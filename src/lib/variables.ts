@@ -3,14 +3,8 @@
 export const GLOBAL = {
   // Site metadata
   username: "Rudro",
-  handle: "rudrOwO",
   rootUrl: "https://rudro.me",
   shortDescription: "Software Developer based in Dhaka, Bangladesh",
-  longDescription: `<br>
-    <ul style="display: flex; flex-direction: column; gap: 1rem;">
-      <li>👨‍💻 Software Developer with diverse skillset.</li>
-      <li>⚡ Frontend, Backend, DevOps, LLMs, 3D Graphics, Mobile & Desktop Apps.</li>
-    </ul>`,
 
   // Social media links
   githubProfile: "https://github.com/rudrowo",
