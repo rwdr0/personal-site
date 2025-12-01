@@ -7,9 +7,9 @@ export const GLOBAL = {
   shortDescription: "Software Developer based in Dhaka, Bangladesh",
 
   // Social media links
-  githubProfile: "https://github.com/rudrowo",
+  githubProfile: "https://github.com/rwdr0",
   twitterProfile: "https://twitter.com/",
-  linkedinProfile: "https://www.linkedin.com/in/rudrowo",
+  linkedinProfile: "https://www.linkedin.com/in/rwdr0",
 
   // Common text names used throughout the site
   articlesName: "Articles",
